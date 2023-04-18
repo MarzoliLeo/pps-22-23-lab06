@@ -12,6 +12,7 @@ object FunctionsImpl extends Functions:
   override def concat(a: Seq[String]): String = ???
   override def max(a: List[Int]): Int = ???
 
+
 /*
  * 2) To apply DRY principle at the best,
  * note the three methods in Functions do something similar.
